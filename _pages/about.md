@@ -11,8 +11,8 @@ redirect_from:
 Rehan is pursuing European Masters in Nuclear Physics, studying across Spain, France, and Italy. The masters is funded by the consortium of Erasmus Mundus NucPhys Consortium. His research interests are diverse and revolves around QCD phase diagram, color superconductivity, physics of compact stars, and dynamics of early universe. I enjoy exploring complex problems at the intersection of theory and data. 
 
 
-Rehan also ponders over foundations of quantum mechanics, and philosophy of physics in general during the weekends.
----
+Occasionaly, Rehan ponders over foundations of quantum mechanics, and philosophy of physics.
+
 
 A data-driven personal website
 ======
