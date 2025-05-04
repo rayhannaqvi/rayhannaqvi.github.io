@@ -26,26 +26,19 @@ Research Projects
 * The Diffusion of Pulsars in the P - P Diagram (Internship at LPC Caen)
   * Focused on pulsar evolution and diffusion in the P-P diagram, analyzing stochastic models of timing noise using Python routine.
 * Generic Polynomial Inflationary Potentials and Cosmological Perturbations (Bachelor Thesis at COMSATS University)
-  * Studied hybrid inflation models with chaotic polynomial potentials under slow-rollapproximation.
+  * Studied hybrid inflation models with chaotic polynomial potentials under slow-roll approximation.
   * Addressed plausibility of the model with Planck data bounds by incorporating fermionic radiative corrections.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Profit for Contractors (Ottawa, Canada)
+  * Process Developer
+  * Duties includes: Automation workflows, integrated CRM sytems, and operation optimization. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Wizenoze
+  * Physics Curriculum Curator
+  * Duties included: Analyzing global physics curricula, educational content curation, and enhancing student engagement.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
