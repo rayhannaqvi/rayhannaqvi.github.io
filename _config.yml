@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Reflexive"
 title_separator          : "-"
 name                     : &name "Rehan Naqvi"
-description              : &description "personal description"
+description              : &description "Rehan Naqvi is a student of physics."
 url                      : https://rayhannaqvi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
