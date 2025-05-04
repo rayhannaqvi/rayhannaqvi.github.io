@@ -21,7 +21,6 @@ Education
 Research Projects
 ======
 * Axions in Dense Quark Matter (Master Thesis at University of Catania)
-
   * Investigated the effective action of QCD axions in dense quark matter.
   * Explored axion interactions in color-superconducting phases, symmetry breaking, and potential applications to compact stellar objects. Calculated axion mass, topological susceptibiltiy, and self-coupling in various superconducting phases.
 * The Diffusion of Pulsars in the P - P Diagram (Internship at LPC Caen)
