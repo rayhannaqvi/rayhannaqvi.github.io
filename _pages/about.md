@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /
 title: "Hi, I'm Rehan!"
 author_profile: false
