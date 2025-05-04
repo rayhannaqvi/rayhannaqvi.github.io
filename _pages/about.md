@@ -7,8 +7,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: relativity.jpg
-  height: "full"
   caption: "Photo credit: [**Relativity by Escher (Coloured)**]([https://unsplash.com/photos/a-group-of-trees-covered-in-snow-on-a-cloudy-day-ur3pxr-6CmA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fozplasmic%2Fart%2FRelativity-by-MC-Escher-in-colour-932899592&psig=AOvVaw2aqAp5Uvub4MB0GKB0tp2-&ust=1746460204656000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCOCbg7OVio0DFQAAAAAdAAAAABAE))"
+  actions:
+    - label: "View Blog"
+      url: "/blog/"
 redirect_from: 
   - /about/
   - /about.html
