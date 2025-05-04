@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: images/relativity.jpg
+  overlay_image: relativity.jpg
 redirect_from: 
   - /about/
   - /about.html
