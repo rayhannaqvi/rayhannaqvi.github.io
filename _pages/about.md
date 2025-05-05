@@ -11,7 +11,7 @@ redirect_from:
 <figure style="float: right; width: 400px; text-align: center; margin-left: 20px;">
   <img src="/images/relativity.jpg" alt="Relativity by M.C Escher" width="400">
   <figcaption style="font-size: 0.9em; color: #fff;">
-    Photo credit: <a href="https://www.deviantart.com/ozplasmic/art/Relativity-by-MC-Escher-in-colour-932899592"><strong>Relativity by M.C Escher (Colored - DeviantArt)</strong></a>
+    Photo credit: <a href="https://www.deviantart.com/ozplasmic/art/Relativity-by-MC-Escher-in-colour-932899592">Relativity by M.C Escher (Colored - DeviantArt)</a>
   </figcaption>
 </figure>
 
