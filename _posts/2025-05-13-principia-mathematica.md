@@ -20,7 +20,7 @@ The Logicomix gives the central character to Russell himself who is lecturing in
 > 
 > — *Bertrand Russell*
 
-The struggle ultimately failed when Hilbert put forward major unresolved problems in mathematics: one of them which was to have a proof of completeness of mathematics and Godel came up with the solution that it was not possible. This failure of the project pushed deeper thinking into logic, formal systems, and computability. It is true that the second Principia is not as influential as the first one, but you can ask: Will there be computers without it? Probably not this soon. 
+The struggle ultimately failed when Hilbert put forward major unresolved problems in mathematics: one of them was to have a proof of completeness of mathematics and Godel came up with the solution that it was not possible. This failure of the project pushed deeper thinking into logic, formal systems, and computability. It is true that the second Principia is not as influential as the first one, but you can ask: Will there be computers without it? Probably not this soon. 
 
 
 
