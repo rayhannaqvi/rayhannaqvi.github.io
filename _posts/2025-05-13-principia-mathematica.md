@@ -1,6 +1,6 @@
 ---
 title: 'Is Principia Mathematica useful?'
-date: 2025-13-05
+date: 2025-05-13
 tags:
   - logic
   - mathematics
