@@ -46,3 +46,7 @@ Skills
 * Mathematica
 * ROOT 
 * Data Analysis and Machine Learning
+
+
+[Download Complete CV](/files/Rehan_CV.pdf)
+
