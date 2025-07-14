@@ -48,5 +48,5 @@ Skills
 * Data Analysis and Machine Learning
 
 
-[Download Complete CV](/files/Rehan_CV.pdf)
+[Download Complete CV](/files/Rehan_Naqvi_CV.pdf)
 
