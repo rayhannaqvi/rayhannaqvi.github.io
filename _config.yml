@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Rehan Naqvi"
   pronouns         : # example: "she/her"  
-  bio              : "Student of Physics. A reflection on reflections."
-  location         : "Hilbert Space"
+  bio              : "Student of Physics."
+  location         : 
   employer         : 
   uri              : # URL
   email            : "rehannaqvi47@gmail.com" 
