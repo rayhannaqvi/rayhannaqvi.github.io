@@ -15,7 +15,7 @@ redirect_from:
 </figure>
 
 
-Rehan pursued a European Master's in Nuclear Physics, studying across Spain, France, and Italy. The program was funded by the Erasmus Mundus NucPhys Consortium. His research interests are diverse and revolves around nuclear theory, pulsars and interiors of neutron stars, and dynamics of early universe. I enjoy exploring complex problems at the intersection of theory and data. 
+Rehan is currently pursuing PhD in Nuclear Physics at IFIC, Valencia. Before that, He pursued a European Master's in Nuclear Physics, studying across Spain, France, and Italy. The program was funded by the Erasmus Mundus NucPhys Consortium. He enjoys exploring complex problems at the intersection of theory and data. 
 
 Occasionaly, Rehan ponders over foundations of quantum mechanics, and philosophy of physics. He likes to play snooker, read literature, and watch cinema. 
 
