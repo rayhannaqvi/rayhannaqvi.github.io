@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* PhD Researcher in Experimental Nuclear Physics, Instituto de Física Corpuscular, Valencia, Present
 * European Master In Nuclear Physics, Erasmus Mundus Joint Masters Degree (EMJMD), 2024
   * University of Catania (S4)
   * University of Caen (S3)
@@ -29,16 +30,6 @@ Research Projects
   * Studied hybrid inflation models with chaotic polynomial potentials under slow-roll approximation.
   * Addressed plausibility of the model with Planck data bounds by incorporating fermionic radiative corrections.
 
-Work experience
-======
-* Profit for Contractors (Ottawa, Canada)
-  * Process Developer
-  * Duties includes: Automation workflows, integrated CRM sytems, and operation optimization. 
-
-* Wizenoze
-  * Physics Curriculum Curator
-  * Duties included: Analyzing global physics curricula, educational content curation, and enhancing student engagement.
-
 Skills
 ======
 * Python
@@ -48,5 +39,5 @@ Skills
 * Data Analysis and Machine Learning
 
 
-[Download Complete CV](/files/Rehan_Naqvi_CV.pdf)
+
 
