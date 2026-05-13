@@ -10,8 +10,12 @@ tags:
 ---
 
 
+
+
 Endowed, we are, with the worlds of esoteric beuaty and mechanical absurdity. The entangled dexteral and sinistral reality has departed and marching in uni-directional convictions; similar to extinction of Neptunea angulata, but we are rather losing Neptunea despecta. The art, cinema, and aesthetical potentialities are not a redundant mimicry of the material artefacts or carving souls on souless objects but to take us to heavens. The desiderata of being is aim of the human art project that captures essentiality of the transcendent phenomenal experience and meditative reflection on subtle ephemerality of life. 
 
+
+![The Tree of Life directed by Terrence Malick, 2011](/images/posts_images/A_image_from_Tree_of_Life.jpg)
 
 The images of Terrence Malick's universe are far superior than the portryals of reality by Christopher Nolan. The insensibilites are screaming out of the screens in every other scene of Nolan's direction, the atmosphere is full of philosophical zombies who can mimick the nature of the human sentimentality but cannot process it decently. He has engulfed himself in such a crude noir realism that he has forsaken the true realism of the background; a mechanical forgetfulness, making films with an attitude of making a documentary. And this mechanization go hand in hand with materialistic brutality, the constant advertisement, I remember Oppenheimer was advertised in a manner that it would feel to have commit a sin to not have seen it. This is not a whinging against display of human reality but a confession of humanity of The Thin Red Line over the Dunkrik. I wish that Nolan experience 'Night of Fire' and learn from Malick to see 'Beyond the Veil.'
 
