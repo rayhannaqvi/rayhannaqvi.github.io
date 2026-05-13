@@ -15,9 +15,9 @@ redirect_from:
 </figure>
 
 
-Rehan is currently PhD Researcher in Nuclear Physics at IFIC, Valencia. Before that, He pursued a European Master's in Nuclear Physics, studying across Spain, France, and Italy. The program was funded by the Erasmus Mundus NucPhys Consortium. He enjoys exploring complex problems at the intersection of theory and data. 
+Rehan is currently PhD Researcher in Nuclear Physics at IFIC, Valencia. Before that, He pursued a European Master's in Nuclear Physics, studying across Spain, France, and Italy. The program was funded by the Erasmus Mundus NucPhys Consortium. He enjoys exploring complex problems at the intersection of theory, experiment and data. 
 
-Occasionaly, Rehan ponders over foundations of quantum mechanics, and philosophy of physics. He likes to play snooker, read literature, and watch cinema. 
+Occasionaly, Rehan ponders over foundations of foundations of theoretical sciences, philosophy, art and cinema. He likes to play snooker, read literature, and watch cinema. 
 
 "Reflexive" is the name of the blog where I will share my thoughts related to physics, philosophys, and life in general.
 
