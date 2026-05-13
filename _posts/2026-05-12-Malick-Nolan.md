@@ -1,3 +1,14 @@
+---
+title: 'Artistic Transcendence'
+date: 2026-05-13
+tags:
+  - art
+  - cinema
+  - Terrence Malick
+  - Christopher Nolan
+---
+
+
 Endowed, we are, with the worlds of esoteric beuaty and mechanical absurdity. The entangled dexteral and sinistral reality has departed and marching in uni-directional convictions; similar to extinction of Neptunea angulata, but we are rather losing Neptunea despecta. The art, cinema, and aesthetical potentialities are not a redundant mimicry of the material artefacts or carving souls on souless objects but to take us to heavens. The desiderata of being is aim of the human art project that captures essentiality of the transcendent phenomenal experience and meditative reflection on subtle ephemerality of life. 
 
 
