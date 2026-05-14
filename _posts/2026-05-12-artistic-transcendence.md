@@ -12,7 +12,7 @@ tags:
 
 
 
-Endowed, we are, with the worlds of esoteric beuaty and mechanical absurdity. The entangled dexteral and sinistral reality has departed and marching in uni-directional convictions; similar to extinction of Neptunea angulata, but we are rather losing Neptunea despecta. The art, cinema, and aesthetical potentialities are not a redundant mimicry of the material artefacts or carving souls on souless objects but to take us to heavens. The desiderata of being is aim of the human art project that captures essentiality of the transcendent phenomenal experience and meditative reflection on subtle ephemerality of life. 
+Endowed, we are, with the worlds of esoteric beauty and mechanical absurdity. The entangled dexteral and sinistral reality has departed and marching in uni-directional convictions; similar to extinction of Neptunea angulata, but we are rather losing Neptunea despecta. The art, cinema, and aesthetical potentialities are not a redundant mimicry of the material artefacts or carving souls on souless objects but to take us to heavens. The desiderata of being is aim of the human art project that captures essentiality of the transcendent phenomenal experience and meditative reflection on subtle ephemerality of life. 
 
 
 ![The Tree of Life directed by Terrence Malick](../images/posts_images/A_image_from_Tree_of Life.jpg)
